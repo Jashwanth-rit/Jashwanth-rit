@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=90&section=header"/>
 
 <div id="header" align="center">
-<h1>SELECT Jashwanth FROM Tech  <img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>SELECT Jk FROM Tech  <img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
 </div>
 
 <br>
